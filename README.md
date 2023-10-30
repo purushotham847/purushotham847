@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/purushotham847/my-website](https://github.com/purushotham847/my-website)
+- 👨‍💻 All of my projects are available at [(https://github.com/purushotham847/my-website)](https://purushotham847.github.io/my-website/)
 
 - 💬 Ask me about **javascipt,tailwindcss,html,css,react**
 
