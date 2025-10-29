@@ -1,17 +1,4 @@
 
-<h1 align="center">Hi 👋, I'm purushotham bm</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" >
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=purushotham847&label=Profile%20views&color=0e75b6&style=flat" alt="purushotham847" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=purushotham847" alt="purushotham847" /></a> </p>
-
-- 🌱 I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at [(https://github.com/purushotham847/my-website)](https://purushotham847.github.io/my-website/)
-
-- 💬 Ask me about **javascipt,tailwindcss,html,css,react**
 
 - 📫 How to reach me **purushothamgowda847@gmail.com**
 
